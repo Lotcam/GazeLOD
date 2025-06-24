@@ -3,8 +3,10 @@ using UnityEngine;
 public class GazeBasedLOD_EccentricityModel : MonoBehaviour
 {
     public MeshRenderer[] lodRenderers; // 0 = high, 1 = medium, 2 = low (unintuitive but thats the standard :/ )
-    public Transform gazeOrigin;        
-    public Vector3 gazeDirection;       
+    public Transform gazeOrigin;
+    public Transform headOrigin;
+    public Vector3 gazeDirection;
+    public bool simulatedGaze;
 
     // Parameters from Watson’s eccentricity model
     [Range(0.01f, 1.0f)]
@@ -15,8 +17,17 @@ public class GazeBasedLOD_EccentricityModel : MonoBehaviour
 
     void Update()
     {
-        gazeDirection = gazeOrigin.forward; 
-        Vector3 toObject = (transform.position - gazeOrigin.position).normalized;
+        Vector3 toObject;
+        if (!simulatedGaze)
+        {
+            gazeDirection = gazeOrigin.forward;
+            toObject = (transform.position - gazeOrigin.position).normalized;
+        }
+        else
+        {
+            gazeDirection = headOrigin.forward;
+            toObject = (transform.position - headOrigin.position).normalized;
+        }
 
         float eccentricity = Vector3.Angle(gazeDirection, toObject); 
 
@@ -42,9 +53,10 @@ public class GazeBasedLOD_EccentricityModel : MonoBehaviour
     {
         for (int i = 0; i < lodRenderers.Length; i++)
         {
-            //   lodRenderers[i].enabled = (i == index);
-            var blat = lodRenderers[i].gameObject;
-            blat.SetActive((i == index)); 
+            //   lodRenderers[i].enabled = (i == index); NOTE do not uncomment
+            // var blat = lodRenderers[i].gameObject;
+            // blat.SetActive((i == index)); 
+            lodRenderers[0].gameObject.SetActive(true);
         }
     }
 }

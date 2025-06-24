@@ -381,7 +381,9 @@ MonoBehaviour:
   - {fileID: 1703585}
   - {fileID: 1703584}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -647,7 +649,9 @@ MonoBehaviour:
   - {fileID: 8249886}
   - {fileID: 8249885}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -913,7 +917,9 @@ MonoBehaviour:
   - {fileID: 21201243}
   - {fileID: 21201242}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -1179,7 +1185,9 @@ MonoBehaviour:
   - {fileID: 26743949}
   - {fileID: 26743948}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -1445,7 +1453,9 @@ MonoBehaviour:
   - {fileID: 34752332}
   - {fileID: 34752331}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -1711,7 +1721,9 @@ MonoBehaviour:
   - {fileID: 41163677}
   - {fileID: 41163676}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -1977,7 +1989,9 @@ MonoBehaviour:
   - {fileID: 45872902}
   - {fileID: 45872901}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -2243,7 +2257,9 @@ MonoBehaviour:
   - {fileID: 69870131}
   - {fileID: 69870130}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -2509,7 +2525,9 @@ MonoBehaviour:
   - {fileID: 107060750}
   - {fileID: 107060749}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -2775,7 +2793,9 @@ MonoBehaviour:
   - {fileID: 144917844}
   - {fileID: 144917843}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -3041,7 +3061,9 @@ MonoBehaviour:
   - {fileID: 150912329}
   - {fileID: 150912328}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -3307,7 +3329,9 @@ MonoBehaviour:
   - {fileID: 153336205}
   - {fileID: 153336204}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -3573,7 +3597,9 @@ MonoBehaviour:
   - {fileID: 160923326}
   - {fileID: 160923325}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -3839,7 +3865,9 @@ MonoBehaviour:
   - {fileID: 173627443}
   - {fileID: 173627442}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -4105,7 +4133,9 @@ MonoBehaviour:
   - {fileID: 189793180}
   - {fileID: 189793179}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -4371,7 +4401,9 @@ MonoBehaviour:
   - {fileID: 190866538}
   - {fileID: 190866537}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -4637,7 +4669,9 @@ MonoBehaviour:
   - {fileID: 196433905}
   - {fileID: 196433904}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -4903,7 +4937,9 @@ MonoBehaviour:
   - {fileID: 206702649}
   - {fileID: 206702648}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -5169,7 +5205,9 @@ MonoBehaviour:
   - {fileID: 220182049}
   - {fileID: 220182048}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -5435,7 +5473,9 @@ MonoBehaviour:
   - {fileID: 236789429}
   - {fileID: 236789428}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -5701,7 +5741,9 @@ MonoBehaviour:
   - {fileID: 256297682}
   - {fileID: 256297681}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -5967,7 +6009,9 @@ MonoBehaviour:
   - {fileID: 268336496}
   - {fileID: 268336495}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -6233,7 +6277,9 @@ MonoBehaviour:
   - {fileID: 269220919}
   - {fileID: 269220918}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -6499,7 +6545,9 @@ MonoBehaviour:
   - {fileID: 272419876}
   - {fileID: 272419875}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -6765,7 +6813,9 @@ MonoBehaviour:
   - {fileID: 285585091}
   - {fileID: 285585090}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -7152,7 +7202,9 @@ MonoBehaviour:
   - {fileID: 301704228}
   - {fileID: 301704227}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -7418,7 +7470,9 @@ MonoBehaviour:
   - {fileID: 310590503}
   - {fileID: 310590502}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -7684,7 +7738,9 @@ MonoBehaviour:
   - {fileID: 312063296}
   - {fileID: 312063295}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -7950,7 +8006,9 @@ MonoBehaviour:
   - {fileID: 313203534}
   - {fileID: 313203533}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -8216,7 +8274,9 @@ MonoBehaviour:
   - {fileID: 313210022}
   - {fileID: 313210021}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -8482,7 +8542,9 @@ MonoBehaviour:
   - {fileID: 334962625}
   - {fileID: 334962624}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -8748,7 +8810,9 @@ MonoBehaviour:
   - {fileID: 337064102}
   - {fileID: 337064101}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -9014,7 +9078,9 @@ MonoBehaviour:
   - {fileID: 341145486}
   - {fileID: 341145485}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -9280,7 +9346,9 @@ MonoBehaviour:
   - {fileID: 371640372}
   - {fileID: 371640371}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -9546,7 +9614,9 @@ MonoBehaviour:
   - {fileID: 383008552}
   - {fileID: 383008551}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -9812,7 +9882,9 @@ MonoBehaviour:
   - {fileID: 416337056}
   - {fileID: 416337055}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -10078,7 +10150,9 @@ MonoBehaviour:
   - {fileID: 432322857}
   - {fileID: 432322856}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -10463,7 +10537,9 @@ MonoBehaviour:
   - {fileID: 441128157}
   - {fileID: 441128156}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -10729,7 +10805,9 @@ MonoBehaviour:
   - {fileID: 441562052}
   - {fileID: 441562051}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -10995,7 +11073,9 @@ MonoBehaviour:
   - {fileID: 448180153}
   - {fileID: 448180152}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -11261,7 +11341,9 @@ MonoBehaviour:
   - {fileID: 469772867}
   - {fileID: 469772866}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -11532,7 +11614,9 @@ MonoBehaviour:
   - {fileID: 502387224}
   - {fileID: 502387223}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -11798,7 +11882,9 @@ MonoBehaviour:
   - {fileID: 521270188}
   - {fileID: 521270187}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -12064,7 +12150,9 @@ MonoBehaviour:
   - {fileID: 522305971}
   - {fileID: 522305970}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -12330,7 +12418,9 @@ MonoBehaviour:
   - {fileID: 523379983}
   - {fileID: 523379982}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -12596,7 +12686,9 @@ MonoBehaviour:
   - {fileID: 542660500}
   - {fileID: 542660499}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -12862,7 +12954,9 @@ MonoBehaviour:
   - {fileID: 556522972}
   - {fileID: 556522971}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -13236,7 +13330,9 @@ MonoBehaviour:
   - {fileID: 562873570}
   - {fileID: 562873569}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -13502,7 +13598,9 @@ MonoBehaviour:
   - {fileID: 568516665}
   - {fileID: 568516664}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -13768,7 +13866,9 @@ MonoBehaviour:
   - {fileID: 572544585}
   - {fileID: 572544584}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -14034,7 +14134,9 @@ MonoBehaviour:
   - {fileID: 586905323}
   - {fileID: 586905322}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -14300,7 +14402,9 @@ MonoBehaviour:
   - {fileID: 608345795}
   - {fileID: 608345794}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -14566,7 +14670,9 @@ MonoBehaviour:
   - {fileID: 647611862}
   - {fileID: 647611861}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -14832,7 +14938,9 @@ MonoBehaviour:
   - {fileID: 667971518}
   - {fileID: 667971517}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -15098,7 +15206,9 @@ MonoBehaviour:
   - {fileID: 668323697}
   - {fileID: 668323696}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -15364,7 +15474,9 @@ MonoBehaviour:
   - {fileID: 685291851}
   - {fileID: 685291850}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -15630,7 +15742,9 @@ MonoBehaviour:
   - {fileID: 701223996}
   - {fileID: 701223995}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -15896,7 +16010,9 @@ MonoBehaviour:
   - {fileID: 719695577}
   - {fileID: 719695576}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -16162,7 +16278,9 @@ MonoBehaviour:
   - {fileID: 719985561}
   - {fileID: 719985560}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -16428,7 +16546,9 @@ MonoBehaviour:
   - {fileID: 735035694}
   - {fileID: 735035693}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -16694,7 +16814,9 @@ MonoBehaviour:
   - {fileID: 745652088}
   - {fileID: 745652087}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -16960,7 +17082,9 @@ MonoBehaviour:
   - {fileID: 749611306}
   - {fileID: 749611305}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -17272,7 +17396,9 @@ MonoBehaviour:
   - {fileID: 810590181}
   - {fileID: 810590180}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -17538,7 +17664,9 @@ MonoBehaviour:
   - {fileID: 819079995}
   - {fileID: 819079994}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -17804,7 +17932,9 @@ MonoBehaviour:
   - {fileID: 821319519}
   - {fileID: 821319518}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -18070,7 +18200,9 @@ MonoBehaviour:
   - {fileID: 847354168}
   - {fileID: 847354167}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -18336,7 +18468,9 @@ MonoBehaviour:
   - {fileID: 863749993}
   - {fileID: 863749992}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -18602,7 +18736,9 @@ MonoBehaviour:
   - {fileID: 881043250}
   - {fileID: 881043249}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -18868,7 +19004,9 @@ MonoBehaviour:
   - {fileID: 914543613}
   - {fileID: 914543612}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -19134,7 +19272,9 @@ MonoBehaviour:
   - {fileID: 952967482}
   - {fileID: 952967481}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -19400,7 +19540,9 @@ MonoBehaviour:
   - {fileID: 957372471}
   - {fileID: 957372470}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -19666,7 +19808,9 @@ MonoBehaviour:
   - {fileID: 966164974}
   - {fileID: 966164973}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -19932,7 +20076,9 @@ MonoBehaviour:
   - {fileID: 968105232}
   - {fileID: 968105231}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -20198,7 +20344,9 @@ MonoBehaviour:
   - {fileID: 990928569}
   - {fileID: 990928568}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -20464,7 +20612,9 @@ MonoBehaviour:
   - {fileID: 991053100}
   - {fileID: 991053099}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -20730,7 +20880,9 @@ MonoBehaviour:
   - {fileID: 994712772}
   - {fileID: 994712771}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -20996,7 +21148,9 @@ MonoBehaviour:
   - {fileID: 1006578576}
   - {fileID: 1006578575}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -21262,7 +21416,9 @@ MonoBehaviour:
   - {fileID: 1027302196}
   - {fileID: 1027302195}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -21528,7 +21684,9 @@ MonoBehaviour:
   - {fileID: 1037261096}
   - {fileID: 1037261095}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -21794,7 +21952,9 @@ MonoBehaviour:
   - {fileID: 1047185511}
   - {fileID: 1047185510}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -22060,7 +22220,9 @@ MonoBehaviour:
   - {fileID: 1076188294}
   - {fileID: 1076188293}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -22326,7 +22488,9 @@ MonoBehaviour:
   - {fileID: 1091266633}
   - {fileID: 1091266632}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -22592,7 +22756,9 @@ MonoBehaviour:
   - {fileID: 1091786685}
   - {fileID: 1091786684}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -22858,7 +23024,9 @@ MonoBehaviour:
   - {fileID: 1092342171}
   - {fileID: 1092342170}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -23124,7 +23292,9 @@ MonoBehaviour:
   - {fileID: 1096295077}
   - {fileID: 1096295076}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -23390,7 +23560,9 @@ MonoBehaviour:
   - {fileID: 1104313206}
   - {fileID: 1104313205}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -23656,7 +23828,9 @@ MonoBehaviour:
   - {fileID: 1105075584}
   - {fileID: 1105075583}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -23922,7 +24096,9 @@ MonoBehaviour:
   - {fileID: 1115329103}
   - {fileID: 1115329102}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -24188,7 +24364,9 @@ MonoBehaviour:
   - {fileID: 1115796573}
   - {fileID: 1115796572}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -24454,7 +24632,9 @@ MonoBehaviour:
   - {fileID: 1124669541}
   - {fileID: 1124669540}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -24720,7 +24900,9 @@ MonoBehaviour:
   - {fileID: 1128160901}
   - {fileID: 1128160900}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -24986,7 +25168,9 @@ MonoBehaviour:
   - {fileID: 1151250335}
   - {fileID: 1151250334}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -25252,7 +25436,9 @@ MonoBehaviour:
   - {fileID: 1155683630}
   - {fileID: 1155683629}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -25518,7 +25704,9 @@ MonoBehaviour:
   - {fileID: 1161743854}
   - {fileID: 1161743853}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -25784,7 +25972,9 @@ MonoBehaviour:
   - {fileID: 1207596179}
   - {fileID: 1207596178}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -26050,7 +26240,9 @@ MonoBehaviour:
   - {fileID: 1216855683}
   - {fileID: 1216855682}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -26316,7 +26508,9 @@ MonoBehaviour:
   - {fileID: 1219991089}
   - {fileID: 1219991088}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -26582,7 +26776,9 @@ MonoBehaviour:
   - {fileID: 1223528609}
   - {fileID: 1223528608}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -26848,7 +27044,9 @@ MonoBehaviour:
   - {fileID: 1224163110}
   - {fileID: 1224163109}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -27114,7 +27312,9 @@ MonoBehaviour:
   - {fileID: 1232344784}
   - {fileID: 1232344783}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -27380,7 +27580,9 @@ MonoBehaviour:
   - {fileID: 1232473146}
   - {fileID: 1232473145}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -27837,7 +28039,9 @@ MonoBehaviour:
   - {fileID: 1252300085}
   - {fileID: 1252300084}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -28103,7 +28307,9 @@ MonoBehaviour:
   - {fileID: 1258266819}
   - {fileID: 1258266818}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -28369,7 +28575,9 @@ MonoBehaviour:
   - {fileID: 1294238671}
   - {fileID: 1294238670}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -28635,7 +28843,9 @@ MonoBehaviour:
   - {fileID: 1317324447}
   - {fileID: 1317324446}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -28946,7 +29156,9 @@ MonoBehaviour:
   - {fileID: 1333895256}
   - {fileID: 1333895255}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -29212,7 +29424,9 @@ MonoBehaviour:
   - {fileID: 1335044797}
   - {fileID: 1335044796}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -29478,7 +29692,9 @@ MonoBehaviour:
   - {fileID: 1353496708}
   - {fileID: 1353496707}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -29744,7 +29960,9 @@ MonoBehaviour:
   - {fileID: 1367678026}
   - {fileID: 1367678025}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -30010,7 +30228,9 @@ MonoBehaviour:
   - {fileID: 1376249289}
   - {fileID: 1376249288}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -30276,7 +30496,9 @@ MonoBehaviour:
   - {fileID: 1376412643}
   - {fileID: 1376412642}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -30542,7 +30764,9 @@ MonoBehaviour:
   - {fileID: 1384867013}
   - {fileID: 1384867012}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -30808,7 +31032,9 @@ MonoBehaviour:
   - {fileID: 1392336166}
   - {fileID: 1392336165}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -31074,7 +31300,9 @@ MonoBehaviour:
   - {fileID: 1399084133}
   - {fileID: 1399084132}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -31340,7 +31568,9 @@ MonoBehaviour:
   - {fileID: 1408474855}
   - {fileID: 1408474854}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -31606,7 +31836,9 @@ MonoBehaviour:
   - {fileID: 1421414170}
   - {fileID: 1421414169}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -31872,7 +32104,9 @@ MonoBehaviour:
   - {fileID: 1424242583}
   - {fileID: 1424242582}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -32138,7 +32372,9 @@ MonoBehaviour:
   - {fileID: 1425073707}
   - {fileID: 1425073706}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -32404,7 +32640,9 @@ MonoBehaviour:
   - {fileID: 1430293949}
   - {fileID: 1430293948}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -32670,7 +32908,9 @@ MonoBehaviour:
   - {fileID: 1438235191}
   - {fileID: 1438235190}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -32936,7 +33176,9 @@ MonoBehaviour:
   - {fileID: 1482881095}
   - {fileID: 1482881094}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -33202,7 +33444,9 @@ MonoBehaviour:
   - {fileID: 1487098434}
   - {fileID: 1487098433}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -33468,7 +33712,9 @@ MonoBehaviour:
   - {fileID: 1510810963}
   - {fileID: 1510810962}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -33734,7 +33980,9 @@ MonoBehaviour:
   - {fileID: 1511790063}
   - {fileID: 1511790062}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -34000,7 +34248,9 @@ MonoBehaviour:
   - {fileID: 1512589339}
   - {fileID: 1512589338}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -34266,7 +34516,9 @@ MonoBehaviour:
   - {fileID: 1518850957}
   - {fileID: 1518850956}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -34532,7 +34784,9 @@ MonoBehaviour:
   - {fileID: 1527337157}
   - {fileID: 1527337156}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -34798,7 +35052,9 @@ MonoBehaviour:
   - {fileID: 1537673938}
   - {fileID: 1537673937}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -35064,7 +35320,9 @@ MonoBehaviour:
   - {fileID: 1538919840}
   - {fileID: 1538919839}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -35330,7 +35588,9 @@ MonoBehaviour:
   - {fileID: 1542245601}
   - {fileID: 1542245600}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -35596,7 +35856,9 @@ MonoBehaviour:
   - {fileID: 1618004636}
   - {fileID: 1618004635}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -35862,7 +36124,9 @@ MonoBehaviour:
   - {fileID: 1662750443}
   - {fileID: 1662750442}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -36128,7 +36392,9 @@ MonoBehaviour:
   - {fileID: 1666197922}
   - {fileID: 1666197921}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -36394,7 +36660,9 @@ MonoBehaviour:
   - {fileID: 1668344418}
   - {fileID: 1668344417}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -36660,7 +36928,9 @@ MonoBehaviour:
   - {fileID: 1703870068}
   - {fileID: 1703870067}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -36926,7 +37196,9 @@ MonoBehaviour:
   - {fileID: 1705390393}
   - {fileID: 1705390392}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -37192,7 +37464,9 @@ MonoBehaviour:
   - {fileID: 1716478426}
   - {fileID: 1716478425}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -37458,7 +37732,9 @@ MonoBehaviour:
   - {fileID: 1718692095}
   - {fileID: 1718692094}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -37724,7 +38000,9 @@ MonoBehaviour:
   - {fileID: 1737612374}
   - {fileID: 1737612373}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -37990,7 +38268,9 @@ MonoBehaviour:
   - {fileID: 1739827872}
   - {fileID: 1739827871}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -38256,7 +38536,9 @@ MonoBehaviour:
   - {fileID: 1741140421}
   - {fileID: 1741140420}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -38522,7 +38804,9 @@ MonoBehaviour:
   - {fileID: 1744071285}
   - {fileID: 1744071284}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -38788,7 +39072,9 @@ MonoBehaviour:
   - {fileID: 1752642035}
   - {fileID: 1752642034}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -39054,7 +39340,9 @@ MonoBehaviour:
   - {fileID: 1761331055}
   - {fileID: 1761331054}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -39320,10 +39608,120 @@ MonoBehaviour:
   - {fileID: 1768833137}
   - {fileID: 1768833136}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
+--- !u!1 &1771961794
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1771961798}
+  - component: {fileID: 1771961797}
+  - component: {fileID: 1771961796}
+  - component: {fileID: 1771961795}
+  m_Layer: 0
+  m_Name: head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &1771961795
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1771961794}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1771961796
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1771961794}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1771961797
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1771961794}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1771961798
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1771961794}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0, y: 1.672, z: -0.041}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1781251808
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39586,7 +39984,9 @@ MonoBehaviour:
   - {fileID: 1781251811}
   - {fileID: 1781251810}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -39852,7 +40252,9 @@ MonoBehaviour:
   - {fileID: 1782956886}
   - {fileID: 1782956885}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -40118,7 +40520,9 @@ MonoBehaviour:
   - {fileID: 1788267713}
   - {fileID: 1788267712}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -40384,7 +40788,9 @@ MonoBehaviour:
   - {fileID: 1834810106}
   - {fileID: 1834810105}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -40650,7 +41056,9 @@ MonoBehaviour:
   - {fileID: 1835253020}
   - {fileID: 1835253019}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -40916,7 +41324,9 @@ MonoBehaviour:
   - {fileID: 1837493665}
   - {fileID: 1837493664}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -41182,7 +41592,9 @@ MonoBehaviour:
   - {fileID: 1845566972}
   - {fileID: 1845566971}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -41448,7 +41860,9 @@ MonoBehaviour:
   - {fileID: 1859375318}
   - {fileID: 1859375317}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -41714,7 +42128,9 @@ MonoBehaviour:
   - {fileID: 1865804664}
   - {fileID: 1865804663}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -42191,7 +42607,9 @@ MonoBehaviour:
   - {fileID: 1886114324}
   - {fileID: 1886114323}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -42457,7 +42875,9 @@ MonoBehaviour:
   - {fileID: 1889670490}
   - {fileID: 1889670489}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -42723,7 +43143,9 @@ MonoBehaviour:
   - {fileID: 1907991886}
   - {fileID: 1907991885}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -42989,7 +43411,9 @@ MonoBehaviour:
   - {fileID: 1908213545}
   - {fileID: 1908213544}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -43255,7 +43679,9 @@ MonoBehaviour:
   - {fileID: 1911607393}
   - {fileID: 1911607392}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -43521,7 +43947,9 @@ MonoBehaviour:
   - {fileID: 1914581317}
   - {fileID: 1914581316}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -43836,7 +44264,9 @@ MonoBehaviour:
   - {fileID: 1924851051}
   - {fileID: 1924851050}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -44102,7 +44532,9 @@ MonoBehaviour:
   - {fileID: 1937590067}
   - {fileID: 1937590066}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -44368,7 +44800,9 @@ MonoBehaviour:
   - {fileID: 1942532746}
   - {fileID: 1942532745}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -44634,7 +45068,9 @@ MonoBehaviour:
   - {fileID: 1952868332}
   - {fileID: 1952868331}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -44900,7 +45336,9 @@ MonoBehaviour:
   - {fileID: 1953173080}
   - {fileID: 1953173079}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -45166,7 +45604,9 @@ MonoBehaviour:
   - {fileID: 1971386841}
   - {fileID: 1971386840}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -45432,7 +45872,9 @@ MonoBehaviour:
   - {fileID: 1977861649}
   - {fileID: 1977861648}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -45698,7 +46140,9 @@ MonoBehaviour:
   - {fileID: 1993241365}
   - {fileID: 1993241364}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -45964,7 +46408,9 @@ MonoBehaviour:
   - {fileID: 1994128568}
   - {fileID: 1994128567}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -46230,7 +46676,9 @@ MonoBehaviour:
   - {fileID: 2001488871}
   - {fileID: 2001488870}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -46496,7 +46944,9 @@ MonoBehaviour:
   - {fileID: 2032442839}
   - {fileID: 2032442838}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -46762,7 +47212,9 @@ MonoBehaviour:
   - {fileID: 2062630595}
   - {fileID: 2062630594}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -47028,7 +47480,9 @@ MonoBehaviour:
   - {fileID: 2066594879}
   - {fileID: 2066594878}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -47294,7 +47748,9 @@ MonoBehaviour:
   - {fileID: 2075896728}
   - {fileID: 2075896727}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -47647,7 +48103,9 @@ MonoBehaviour:
   - {fileID: 2108707253}
   - {fileID: 2108707252}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -47913,7 +48371,9 @@ MonoBehaviour:
   - {fileID: 2109510570}
   - {fileID: 2109510569}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -48179,7 +48639,9 @@ MonoBehaviour:
   - {fileID: 2119498468}
   - {fileID: 2119498467}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -48479,7 +48941,9 @@ MonoBehaviour:
   - {fileID: 2125146388}
   - {fileID: 2125146387}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -48745,7 +49209,9 @@ MonoBehaviour:
   - {fileID: 2141031845}
   - {fileID: 2141031844}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -49011,7 +49477,9 @@ MonoBehaviour:
   - {fileID: 2141439501}
   - {fileID: 2141439500}
   gazeOrigin: {fileID: 561913219}
+  headOrigin: {fileID: 1771961798}
   gazeDirection: {x: 0, y: 0, z: 0}
+  simulatedGaze: 1
   k: 0.087
   highDetailThreshold: 0.5
   mediumDetailThreshold: 0.3
@@ -49026,3 +49494,4 @@ SceneRoots:
   - {fileID: 1249617921}
   - {fileID: 1321701529}
   - {fileID: 1869083434}
+  - {fileID: 1771961798}
