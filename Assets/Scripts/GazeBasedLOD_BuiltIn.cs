@@ -1,8 +1,7 @@
 using UnityEngine;
 
-public class GazeBasedLOD_EccentricityModel : MonoBehaviour
+public class GazeBasedLOD_BuiltIn: MonoBehaviour
 {
-    public MeshRenderer[] lodRenderers; // 0 = high, 1 = medium, 2 = low (unintuitive but thats the standard :/ )
     public Transform gazeOrigin;
     public Transform headOrigin;
     public Vector3 gazeDirection;
@@ -14,7 +13,11 @@ public class GazeBasedLOD_EccentricityModel : MonoBehaviour
 
     public float highDetailThreshold = 0.8f;
     public float mediumDetailThreshold = 0.4f;
-
+    private LODGroup lodGroup;
+    void Start()
+    {
+        lodGroup = GetComponent<LODGroup>();
+    }
     void Update()
     {
         Vector3 toObject;
@@ -48,15 +51,11 @@ public class GazeBasedLOD_EccentricityModel : MonoBehaviour
             SetLOD(2); // Low detail
         }
     }
-
     void SetLOD(int index)
     {
-        for (int i = 0; i < lodRenderers.Length; i++)
+        if (lodGroup != null)
         {
-            //   lodRenderers[i].enabled = (i == index); NOTE do not uncomment
-            var blat = lodRenderers[i].gameObject;
-            blat.SetActive((i == index)); 
-            // lodRenderers[0].gameObject.SetActive(true); // uncomment for no lod (and comment lines above)
+            lodGroup.ForceLOD(index);
         }
     }
 }
